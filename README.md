@@ -1,6 +1,13 @@
 ### Hi there 👋
+I'm a Robotics and Machine Learning Engineer (in the making), windows and Linux user
 
-[![Yodeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yodeman)](https://github.com/anuraghazra/github-readme-stats)
+### Pronouns: He/Him
+
+### Github stats
+![Yodeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yodeman&show_icons=true&theme=dark&hide_title=true&count_private=true)
+
+### My top languages
+![Yodeman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Yodeman&show_icons=true&theme=dark&hide_title=true&hide=jupyter%20notebook,html,dockerfile)
 
 <!---a href="https://github.com/Yodeman">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yodeman&show_icons=true&theme=dark&hide_title=true" alt="My GitHub Stats" />
