@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Robotics and Machine Learning Engineer (in the making), windows and Linux user
+I'm a Machine Learning Engineer (in the making), windows and Linux user
 
 ### Pronouns: He/Him
 
