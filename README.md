@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm a Software and Machine Learning Engineer (in the making), windows and Linux user
 
-### Pronouns: He/Him
-
 ### Github stats
 ![Yodeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yodeman&show_icons=true&theme=dark&hide_title=true&count_private=true)
 
@@ -10,7 +8,7 @@ I'm a Software and Machine Learning Engineer (in the making), windows and Linux 
 ![Yodeman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Yodeman&show_icons=true&theme=dark&hide_title=true&hide=jupyter%20notebook,html,dockerfile)
 
 -------------------------------
-- 🌱 I’m currently learning ros2
+- - 👀 I’m interested in ros2
 
 <!---
 Yodeman/Yodeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
