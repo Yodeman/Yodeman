@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Software and Machine Learning Engineer (in the making), windows and Linux user
+I'm a Software and Machine Learning Engineer, windows and Linux user
 
 ### Github stats
 ![Yodeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yodeman&show_icons=true&theme=dark&hide_title=true&count_private=true)
